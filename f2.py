@@ -1,0 +1,2 @@
+ww="chethan"
+print(ww)
